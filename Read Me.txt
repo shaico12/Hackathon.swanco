@@ -1,0 +1,7 @@
+Hello,
+Our website it's about Travel Agency.
+Because of Corona, the tourism market is limited. 
+Therefore, when you click on the 'submit' button on the home page, 
+your request is sent to us and a consultant will contact you after reviewing your request. 
+Do not hesitate to contact us for any question or request for a quote.
+Swan&Co
